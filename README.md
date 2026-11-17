@@ -1,5 +1,5 @@
-Catdoku is a browser game based on the "queens" game.
-No download, no install, no adds, simply open in the browser and play.
+Catdoku is a puzzle browser game.
+No download, no install, no adds, simply open in your browser and play.
 A version for those with color vision deficiency (CVD) is named Zoodoku.
 
 Rules:
